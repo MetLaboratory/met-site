@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Met Lab</title>
+    <link>https://MetLaboratory.github.io/met-site/</link>
+    <description>Recent content on Met Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 02 Mar 2022 01:07:51 +0900</lastBuildDate><atom:link href="https://MetLaboratory.github.io/met-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Met Lab の公式Webサイト開設</title>
+      <link>https://MetLaboratory.github.io/met-site/posts/hello/</link>
+      <pubDate>Wed, 02 Mar 2022 01:07:51 +0900</pubDate>
+      
+      <guid>https://MetLaboratory.github.io/met-site/posts/hello/</guid>
+      <description>今後は Met Lab の活動内容などを発信していく予定です。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://MetLaboratory.github.io/met-site/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MetLaboratory.github.io/met-site/about/</guid>
+      <description>工事中……</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://MetLaboratory.github.io/met-site/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MetLaboratory.github.io/met-site/contact/</guid>
+      <description>Twitter: https://twitter.com/ZQ875328</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://MetLaboratory.github.io/met-site/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://MetLaboratory.github.io/met-site/projects/</guid>
+      <description>工事中……</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Met Lab</title>
+    <link>https://MetLaboratory.github.io/met-site/posts/</link>
+    <description>Recent content in Posts on Met Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 02 Mar 2022 01:07:51 +0900</lastBuildDate><atom:link href="https://MetLaboratory.github.io/met-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Met Lab の公式Webサイト開設</title>
+      <link>https://MetLaboratory.github.io/met-site/posts/hello/</link>
+      <pubDate>Wed, 02 Mar 2022 01:07:51 +0900</pubDate>
+      
+      <guid>https://MetLaboratory.github.io/met-site/posts/hello/</guid>
+      <description>今後は Met Lab の活動内容などを発信していく予定です。</description>
+    </item>
+    
+  </channel>
+</rss>
