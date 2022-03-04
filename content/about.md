@@ -29,4 +29,4 @@ Met 研究所(通称 Met Lab)はエンジニアの支援を目的とした民間
 * 令和4年 Met Lab 公式Webサイト開設
 
 ## 広報
-Twitter: [https://twitter.com/ZQ875328](https://twitter.com/ZQ875328 "Met Twitter")
+Twitter: [https://twitter.com/ZQ875328](https://twitter.com/ZQ875328 "Met Lab 広報のTwitterアカウント")
