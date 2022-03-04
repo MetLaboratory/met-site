@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://MetLaboratory.github.io/met-site/about/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://MetLaboratory.github.io/met-site/</loc>
     <lastmod>2022-03-02T01:07:51+09:00</lastmod>
   </url><url>
@@ -10,9 +13,6 @@
   </url><url>
     <loc>https://MetLaboratory.github.io/met-site/posts/</loc>
     <lastmod>2022-03-02T01:07:51+09:00</lastmod>
-  </url><url>
-    <loc>https://MetLaboratory.github.io/met-site/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MetLaboratory.github.io/met-site/authors/</loc>
   </url><url>

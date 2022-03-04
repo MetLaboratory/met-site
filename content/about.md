@@ -1,9 +1,32 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "The Met Martinez Laboratory"
+date = "2022-03-04"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Ant2357"
 +++
 
-工事中……
+Met 研究所(通称 Met Lab)はエンジニアの支援を目的とした民間団体です。
+
+活動内容としては、
+
+* 気軽に参加できる技術コミュニティとしての活動
+* 技術書の購入支援
+* 3Dプリンターによる造形援助(金銭面の理由で3Dプリンターを購入できない方が対象です)
+* 慰労会の開催
+
+など、技術支援、ならびに人材育成を目指した技術活動を推進しています。
+
+また、支援を通じて得られた知見と技術発展から得られた知見を相互に共有することにより、技術コミュニティ全体の発展にも寄与していく方針です。
+
+こうした活動を通じて人材育成と社会貢献に努めるとともに、独創的・国際的な人材輩出や多様性のある社会を目指す普及活動にも取り組んでいます。
+
+## Met 所長の挨拶
+にゃう
+
+## 沿革
+* 令和4年 Met Lab 設立
+* 令和4年 Met Lab 公式Webサイト開設
+
+## 広報
+Twitter: [https://twitter.com/ZQ875328](https://twitter.com/ZQ875328 "Met Twitter")
