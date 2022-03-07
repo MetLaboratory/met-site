@@ -110,8 +110,14 @@ url = "https://github.com/MetLaboratory"
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 3
+weight = 2
 url = "https://twitter.com/ZQ875328"
+
+[[params.social]]
+name = "Discord"
+icon = "fa fa-2x fa-discord"
+weight = 3
+url = "https://discord.gg/VMY9mF7HYE"
 
 [languages.ja]
 languageName = ":uk:"
