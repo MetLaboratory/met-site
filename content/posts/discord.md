@@ -15,4 +15,4 @@ series = []
 
 Met Lab 公式 Discord サーバーは『刺身たんぽぽ同好会』へ移行しました。
 
-Discord: [https://discord.com/invite/kuSa9NNZ](https://discord.com/invite/kuSa9NNZ "Discord")
+Discord: [https://discord.gg/P3eJgZMyJK](https://discord.gg/P3eJgZMyJK "Discord Link")
