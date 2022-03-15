@@ -2,9 +2,9 @@ body, h1, h2, h3, h4, h5, h6, .navbar-custom {
   font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
 }
 
-/***************
+/*
  * テーマ上書き
- ***************/
+ */
 .avatar img {
   width: 20rem;
   height: auto;
@@ -19,11 +19,19 @@ body, h1, h2, h3, h4, h5, h6, .navbar-custom {
   animation: zoom-in 0.8s cubic-bezier(0.25, 1, 0.5, 1) 1 forwards;
 }
 
+/*
+ * TOP画面の Met Lab 表記とキャッチコピー部分
+ */
+.about > h1, .about > h2 {
+  animation: flowing-anime 1.25s forwards linear;
+}
+
 @media screen and (max-width: 768px) {
   .centered .about h2 {
     font-size: 2.4rem;
   }
 }
+
 
 @keyframes zoom-in {
   0% {
@@ -33,5 +41,18 @@ body, h1, h2, h3, h4, h5, h6, .navbar-custom {
   100% {
     opacity: 1;
     transform: scale(1);
+  }
+}
+
+@keyframes flowing-anime {
+  0%{
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0%;
+  }
+  100%{
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
   }
 }
