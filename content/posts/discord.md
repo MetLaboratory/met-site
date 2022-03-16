@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2022-03-07T17:37:20+09:00
+date = 2022-03-17T01:28:15+09:00
 title = "Met Lab 公式 Discord サーバーのお知らせ"
 description = "Met Lab 公式 Discord サーバーのお知らせ"
 slug = ""
@@ -11,8 +11,6 @@ externalLink = ""
 series = []
 +++
 
-~~有志達の要望を受けて、Met Lab 公式 Discord サーバーを開設いたしました。~~
+有志達の要望を受けて、Met Lab 公式 Discord サーバーを開設いたしました。
 
-Met Lab 公式 Discord サーバーは『刺身たんぽぽ同好会』へ移行しました。
-
-Discord: [https://discord.gg/P3eJgZMyJK](https://discord.gg/P3eJgZMyJK "Discord Link")
+Discord: [https://discord.gg/VkmfPG8k7y](https://discord.gg/VkmfPG8k7y "Discord Link")
