@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://MetLaboratory.github.io/met-site/authors/ant2357/</loc>
-    <lastmod>2022-03-17T01:28:15+09:00</lastmod>
-  </url><url>
-    <loc>https://MetLaboratory.github.io/met-site/authors/</loc>
-    <lastmod>2022-03-17T01:28:15+09:00</lastmod>
-  </url><url>
     <loc>https://MetLaboratory.github.io/met-site/categories/</loc>
     <lastmod>2022-03-17T01:28:15+09:00</lastmod>
   </url><url>
@@ -34,6 +28,8 @@
   </url><url>
     <loc>https://MetLaboratory.github.io/met-site/posts/hello/</loc>
     <lastmod>2022-03-02T01:07:51+09:00</lastmod>
+  </url><url>
+    <loc>https://MetLaboratory.github.io/met-site/authors/</loc>
   </url><url>
     <loc>https://MetLaboratory.github.io/met-site/contact/</loc>
   </url><url>
