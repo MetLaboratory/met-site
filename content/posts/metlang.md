@@ -54,7 +54,7 @@ cargo run -- examples/hello.met
 Hello World!
 ```
 
-### 素数列挙
+### 素数列挙のコード
 
 #### primeNumber.met
 ```
